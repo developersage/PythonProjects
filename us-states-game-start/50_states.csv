@@ -1,0 +1,51 @@
+state,x,y,complete
+Alabama,139.0,-77.0,False
+Alaska,-204.0,-170.0,False
+Arizona,-203.0,-40.0,False
+Arkansas,57.0,-53.0,False
+California,-297.0,13.0,True
+Colorado,-112.0,20.0,False
+Connecticut,297.0,96.0,False
+Delaware,275.0,42.0,False
+Florida,220.0,-145.0,False
+Georgia,182.0,-75.0,False
+Hawaii,-317.0,-143.0,False
+Idaho,-216.0,122.0,False
+Illinois,95.0,37.0,False
+Indiana,133.0,39.0,False
+Iowa,38.0,65.0,False
+Kansas,-17.0,5.0,False
+Kentucky,149.0,1.0,False
+Louisiana,59.0,-114.0,False
+Maine,319.0,164.0,False
+Maryland,288.0,27.0,False
+Massachusetts,312.0,112.0,False
+Michigan,148.0,101.0,False
+Minnesota,23.0,135.0,False
+Mississippi,94.0,-78.0,False
+Missouri,49.0,6.0,False
+Montana,-141.0,150.0,False
+Nebraska,-61.0,66.0,False
+Nevada,-257.0,56.0,False
+New Hampshire,302.0,127.0,False
+New Jersey,282.0,65.0,False
+New Mexico,-128.0,-43.0,False
+New York,236.0,104.0,False
+North Carolina,239.0,-22.0,False
+North Dakota,-44.0,158.0,False
+Ohio,176.0,52.0,False
+Oklahoma,-8.0,-41.0,False
+Oregon,-278.0,138.0,False
+Pennsylvania,238.0,72.0,False
+Rhode Island,318.0,94.0,False
+South Carolina,218.0,-51.0,False
+South Dakota,-44.0,109.0,False
+Tennessee,131.0,-34.0,False
+Texas,-38.0,-106.0,True
+Utah,-189.0,34.0,False
+Vermont,282.0,154.0,False
+Virginia,234.0,12.0,False
+Washington,-257.0,193.0,False
+West Virginia,200.0,20.0,False
+Wisconsin,83.0,113.0,False
+Wyoming,-134.0,90.0,False
